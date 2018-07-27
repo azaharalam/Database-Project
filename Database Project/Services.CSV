@@ -1,0 +1,6 @@
+Serial_no,Booking_Date,Service_Date,Client_ID,People,Community_Center,Type,Rate,Advance
+1,01-Jan-18,02-Jan-18,1,1000,Zilla Porishod,Marriage,20,0
+2,10-Jan-18,11-Jan-18,2,100,Zilla Porishod,Marriage,20,0
+3,15-Jan-18,18-Jan-18,3,400,Zilla Porishod,Marriage,20,0
+4,22-Jan-18,25-Jan-18,4,500,Zilla Porishod,Marriage,20,0
+5,31-Jan-18,01-Feb-18,5,300,Zilla Porishod,Marriage,20,0

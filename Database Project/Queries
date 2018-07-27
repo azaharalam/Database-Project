@@ -1,0 +1,6 @@
+describe Clients;
+describe Services;
+describe Employees;
+describe Wages;
+
+alter  table wages add working_hour number(3);
